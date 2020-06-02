@@ -21,6 +21,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.js"></script>
 
+    <link rel="icon" type="image/png" href="http://susanboratynska.com/wp-content/uploads/favicon-2.png">
+
     <title>The Brat Pack :: DayCare System</title>
 </head>
 <body>
