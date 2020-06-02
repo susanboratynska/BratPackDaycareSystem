@@ -1,0 +1,104 @@
+body {
+    background-image: url("../images/children-sharing-and-playing-with-toys.jpg");
+    background-size: cover;
+}
+
+#login__form {
+    max-width: 35%;
+    background-color: white;
+    margin: auto;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+/* ----- Page Classes CSS ----- */
+.page__description{
+    text-align: left;
+    font-size: 18px;
+    padding: 25px 0 25px 0;
+}
+
+.table .thead-dark th {
+    background-color: darkgray;
+    background-color: #414a4c;
+}
+
+.submit__leftalign{
+    display: flex;
+}
+
+.navbar {
+    justify-content: flex-end !important;
+}
+
+/* ----- Field Trip CSS ----- */
+
+td {
+    font-size: 14px;
+}
+
+.btn {
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+/* ----- Staff Directory CSS ----- */
+
+.staffdirectory__listgrid_icon{
+    padding: 4px 10px 0 10px !important;
+}
+
+
+.staff__dropdown_link {
+    padding-left: 7px;
+    color: black;
+    text-decoration: none;
+}
+
+a.staff__dropdown_link:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.staff__container{
+    border: solid lightgray 1px;
+    /*height: 425px;*/
+    /*width: 300px;*/
+    height: 340px;
+    width: 240px;
+    background: white;
+    display: inline-block;
+    margin: 5px;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+    font-size: 14px;
+}
+.staff__container_photo{
+    max-width: 100%;
+}
+.staff__container_info{
+    padding: 8px;
+}
+
+
+/* ---------- Nav ---------- */
+
+.disabled {
+    background: lightgray !important;
+}
+
+/* ---------- Disable Select ---------- */
+
+select[disabled]{
+    -webkit-appearance: none;
+}
+
+/* Layout Styles */
+.fullpg {
+    padding-bottom: 20px;
+}
+
+form {
+    padding: 5px 0;
+    margin-top: 5px;
+}
