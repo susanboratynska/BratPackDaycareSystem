@@ -36,4 +36,4 @@ This was a 4 person group project. However, this repository only contains the co
 
 
 ## Screenshot of Login Page:
-![Screenshot of Login Page](images/Login_BratPackDaycareSystem.png)
+![Screenshot of Login Page](BratPackDaycareSystem/images/Login_BratPackDaycareSystem.png)
