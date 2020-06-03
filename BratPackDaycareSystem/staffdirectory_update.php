@@ -155,7 +155,7 @@ if(isset($_POST['submit__updatestaff'])){
     <h1>Update Staff Member</h1>
 
     <div class="navbar">
-        <a href="staffdirectory_list.php" class="btn btn-secondary">Back to List</a>
+        <a href="javascript:history.go(-1)" class="btn btn-secondary">Back to List</a>
         <button type='button' class='btn btn-danger' data-toggle='modal' data-target="#deletestaff<?= $staffID ?>">Delete Staff Member</button>
         <div class="modal fade" id="deletestaff<?= $staffID ?>" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
             <div class="modal-dialog" role="document">

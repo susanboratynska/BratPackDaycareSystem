@@ -138,7 +138,7 @@ if(isset($_POST['submit__addstaff'])) {
     <h1>Add New Staff Member</h1>
 
     <div class="navbar">
-        <a href="staffdirectory_list.php" class="btn btn-secondary">Back to List</a>
+        <a href="javascript:history.go(-1)" class="btn btn-secondary">Back to List</a>
     </div>
 
     <form method="POST" action="staffdirectory_add.php" enctype="multipart/form-data">
