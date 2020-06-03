@@ -1,12 +1,18 @@
 # Brat Pack: Daycare System
 
-### Project Live URL: 
-[Link to Demo](http://susanboratynska.com/brat-pack-daycare-system)
+###Link to Demo:
 
-# Description:
+* [Admin View - Staff Directory](http://susanboratynska.com/brat-pack-daycare-system/staffdirectory_list_pictures.php)
+* [Admin View - Field Trips](http://susanboratynska.com/brat-pack-daycare-system/fieldtrip_list.php)
+
+* [Public View - Staff Directory](http://susanboratynska.com/brat-pack-daycare-system/public_staffdirectory_list.php)
+* [Public View - Field Trips](http://susanboratynska.com/brat-pack-daycare-system/public_fieldtrip_list.php)
+
+
+## Description:
 Brat Pack is a Daycare System designed to simplify daily operating tasks for daycare staff. Application features include:
-* Upcoming Field Trips
-* Staff Directory
+* **Staff Directory**
+* **Upcoming Field Trips**
 * Parent-Teacher Contact Forms
 * Pick Up Scheduler
 * Child Directory

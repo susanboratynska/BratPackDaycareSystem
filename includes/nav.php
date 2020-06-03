@@ -13,15 +13,16 @@ session_start();
                 <a class="nav-item dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                    aria-expanded="false">Admin</a>
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="contact_list.php">Contact Forms</a>
-                    <a class="dropdown-item" href="pickupschedule_list.php">Pickup Schedule</a>
+                    <a class="dropdown-item disabled" href="">Contact Forms</a>
+                    <a class="dropdown-item disabled" href="">Pickup Schedule</a>
+                    <a class="dropdown-item" href="staffdirectory_list_pictures.php">Staff Directory</a>
                     <a class="dropdown-item" href="fieldtrip_list.php">Field Trips</a>
-                    <a class="dropdown-item" href="staffdirectory_list.php">Staff Directory</a>
-                    <a class="dropdown-item" href="messages_show.php">Messages</a>
-                    <a class="dropdown-item" href="waitlist_show.php">Waitlist</a>
-                    <a class="dropdown-item" href="student_list.php">All Students</a>
-                    <a class="dropdown-item" href="menu_list.php">Menu</a>
-                    <a class="dropdown-item" href="activities_list.php">Activities</a>
+
+                    <a class="dropdown-item disabled" href="">Messages</a>
+                    <a class="dropdown-item disabled" href="">Waitlist</a>
+                    <a class="dropdown-item disabled" href="">All Students</a>
+                    <a class="dropdown-item disabled" href="">Menu</a>
+                    <a class="dropdown-item disabled" href="">Activities</a>
                 </div>
             </li>
             <?php
@@ -34,14 +35,14 @@ session_start();
         <li class="nav-item dropdown">
             <a class="nav-item dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Parents</a>
             <div class="dropdown-menu">
-                <a class="dropdown-item" href="public_contact_view.php">Contact Form</a>
-                <a class="dropdown-item" href="public_pickupschedule_view.php">Pickup Scheduler</a>
-                <a class="dropdown-item" href="public_fieldtrip_list.php">Field Trips</a>
+                <a class="dropdown-item disabled" href="">Contact Form</a>
+                <a class="dropdown-item disabled" href="">Pickup Scheduler</a>
                 <a class="dropdown-item" href="public_staffdirectory_list.php">Staff Directory</a>
-                <a class="dropdown-item" href="public_messages.php">Messages</a>
-                <a class="dropdown-item" href="public_waitlist_show.php">Waitlist</a>
-                <a class="dropdown-item" href="public_menu_list.php">Menu</a>
-                <a class="dropdown-item" href="public_activities_list.php">Activities</a>
+                <a class="dropdown-item" href="public_fieldtrip_list.php">Field Trips</a>
+                <a class="dropdown-item disabled" href="">Messages</a>
+                <a class="dropdown-item disabled" href="">Waitlist</a>
+                <a class="dropdown-item disabled" href="">Menu</a>
+                <a class="dropdown-item disabled" href="">Activities</a>
             </div>
         </li>
             <?php
