@@ -1,6 +1,6 @@
 # Brat Pack: Daycare System
 
-###Link to Demo:
+## Link to Demo:
 
 * [Admin View - Staff Directory](http://susanboratynska.com/brat-pack-daycare-system/staffdirectory_list_pictures.php)
 * [Admin View - Field Trips](http://susanboratynska.com/brat-pack-daycare-system/fieldtrip_list.php)
